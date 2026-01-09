@@ -1,6 +1,6 @@
 # 🎮 CodeSharp 
 
-> Aprenda C# e .NET jogando. Simples, direto e viciante.
+> Aprenda C# e .NET jogando () => [Simples, direto e viciante]
 
 O CodeSharp é um **protótipo de plataforma gamificada** inspirado em Duolingo e Mimo, criado para ensinar **C# e .NET** de forma prática, divertida e progressiva.
 
