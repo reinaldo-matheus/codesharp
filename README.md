@@ -4,16 +4,16 @@
 
 O CodeSharp é um **protótipo de plataforma gamificada** inspirado em Duolingo e Mimo, criado para ensinar **C# e .NET** de forma prática, divertida e progressiva.
 
-Aqui você não só estuda — você **evolui de nível**.
+Aqui você não só estuda, você **eleva seu XP da vida real**.
 
 ---
 
 ## 🚀 Visão do Projeto
 
-A ideia do CodeSharp é transformar o aprendizado de programação em uma **experiência de jogo**, onde cada fase ensina um conceito real usado no mercado.
+A ideia do CodeSharp é transformar o aprendizado de programação em uma **experiência gamer**, onde cada fase ensina um conceito real usado no mercado.
 
 🎯 Objetivo principal:  
-> Tornar o estudo de C# menos teórico e mais **mão na massa**.
+> Tornar o estudo de C# menos teórico e mais **interativo**.
 
 ---
 
